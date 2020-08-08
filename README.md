@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Orkhan and I'm an IT enthusiast, developer, curious about the world around and how to make things simple & comfortable.
+
+### :heart: Things I love:
+* automation
+* calisthenics
+
+### ⚡ Things I do:
+* automation
+* calisthenics
+
+### 📫 Find me
+* [Telegram](https://telegram.me/arrrrrkhan)
+* nowhere else
