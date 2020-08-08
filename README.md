@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Orkhan and I'm an IT enthusiast, developer, curious about the world around and how to make things simple & comfortable.
+My name is Orkhan and I'm an IT enthusiast, developer, always curious about the world around and how to make things simple & comfortable.
+Also in love with :pancakes:
 
 ### :heart: Things I love:
 * automation
