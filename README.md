@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Orkhan and I'm an IT enthusiast, developer, always curious about the world around and how to make things simple & comfortable.
-Also in love with :pancakes:
+Also in love with :pancakes: and python.
 
 ### :heart: Things I love:
 * automation
